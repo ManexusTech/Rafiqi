@@ -36,9 +36,17 @@ Rafiqi is an **offline personal assistant** built with privacy in mind. It opera
    pip install -r requirements.txt
    ```
 
-4. Create a .env file in the root directory and add your OpenAI API key:
+4. Set up environment variables:
+   ```bash
+   # Copy the template environment file
+   cp env.template .env
+   
+   # Edit .env file with your favorite editor and add your OpenAI API key
    ```
-   OPENAI_API_KEY=your_api_key_here
+
+   Your .env file should look like this:
+   ```
+   OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxx
    ```
 
 5. Run the assistant:
