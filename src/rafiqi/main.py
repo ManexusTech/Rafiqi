@@ -1,4 +1,4 @@
-from assistant.core import Assistant
+from .core.assistant import Assistant
 import asyncio
 
 async def main():

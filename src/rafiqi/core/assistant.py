@@ -1,10 +1,8 @@
-from handlers.text_handler import TextHandler
+from ..handlers.text_handler import TextHandler
 import asyncio
 
 class Assistant:
-    """
-    Core assistant class that handles text interactions with AI.
-    """
+    """Core assistant class that handles text interactions with AI."""
     def __init__(self):
         self.text_handler = TextHandler()
         self.is_running = False
@@ -15,7 +13,6 @@ class Assistant:
         print("Rafiqi is ready! Type your message (or 'quit' to exit):")
         
         while self.is_running:
-            # Get user input
             user_input = input("> ")
             
             if user_input.lower() in ["quit", "exit", "stop"]:
@@ -23,10 +20,5 @@ class Assistant:
                 print("Goodbye!")
                 break
 
-            # Process with AI
             ai_response = await self.text_handler.process_with_ai(user_input)
-            print(f"\nRafiqi: {ai_response}\n")
-
-    async def process_text_input(self, text):
-        """Process text input and return AI response"""
-        return await self.text_handler.process_with_ai(text) 
+            print(f"\nRafiqi: {ai_response}\n") 

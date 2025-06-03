@@ -1,0 +1,994 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:muhammad.asc1112@gmail.com
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:GMT+1
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Asia/Singapore
+X-LIC-LOCATION:Asia/Singapore
+BEGIN:STANDARD
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:GMT+8
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART:20210519T010000Z
+DTEND:20210519T013000Z
+DTSTAMP:20250603T104647Z
+ORGANIZER;CN=m d:mailto:muhammad.asc1112@gmail.com
+UID:3eteb8sd9eh0ptut2i3561reu2@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=tf
+ ox@jstcap.com;X-NUM-GUESTS=0:mailto:tfox@jstcap.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=m d;X-
+ NUM-GUESTS=0:mailto:muhammad.asc1112@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/rsx-zcbq-qpt
+CREATED:20210518T001010Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/rs
+ x-zcbq-qpt\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210518T001010Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:JST Capital
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220119T023000Z
+DTEND:20220119T024000Z
+DTSTAMP:20250603T104647Z
+UID:5lf1udl60rerm2p63ou22a29d3@google.com
+CREATED:20220104T134050Z
+LAST-MODIFIED:20220104T134050Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Executive Health Screening Appointment Confirmation - Healthway Scr
+ eening @ Downtown
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220302T002000Z
+DTEND:20220302T003000Z
+DTSTAMP:20250603T104647Z
+UID:2ofrv9qmp1q7oldeoe5061qpmb@google.com
+CREATED:20220227T034016Z
+LAST-MODIFIED:20220227T034016Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Executive Health Screening Appointment Confirmation - Healthway Scr
+ eening @ Downtown
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220317T074500Z
+DTEND:20220317T080000Z
+DTSTAMP:20250603T104647Z
+UID:cgpj2dhkc4rj4bb46hhj2b9k60o66b9o6cs3gb9oc4rj8p9l64o34pj5cg@google.com
+CREATED:20220317T015321Z
+LAST-MODIFIED:20220317T015321Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Executive Health Screening Appointment Confirmation - Healthway Scr
+ eening @ Downtown
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220917T015000Z
+DTEND:20220918T015000Z
+DTSTAMP:20250603T104647Z
+UID:3juetbrlsghv6r3eh3hhu8i82j@google.com
+CREATED:20220912T035202Z
+DESCRIPTION:Thank you for your response\, you're CHOPED!\n\nWe're looking f
+ orward to seeing you there!\n\nOh\, if you have Telegram\, do join us there
+ . The link can be found at our homepage.\n\nHere are the event details:\n\n
+ # G R A C E W I N S\n17 September 2022 at 9:50 am\nSingapore\, 156B Stirlin
+ g Rd\, Singapore 148947
+LAST-MODIFIED:20220912T035202Z
+LOCATION:156B Stirling Rd\, Singapore 148947
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:# G R A C E W I N S
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220928T080000Z
+DTEND:20220928T100000Z
+DTSTAMP:20250603T104647Z
+UID:556rq4pafe6f9vatefhf0h7sdj@google.com
+CREATED:20220919T075017Z
+DESCRIPTION:For details\, go here:\nhttps://www.eventbrite.com/e/gn-collect
+ ooors-nft-drinks-for-right-click-savers-tickets-403914648587
+LAST-MODIFIED:20220919T075017Z
+LOCATION:Ballroom by Barbary Coast - 16 North Canal Road - #02-01 - Singapo
+ re 048828 - Singapore
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GN Collectooors - NFT Drinks for Right Click Savers
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220928T030000Z
+DTEND:20220929T130000Z
+DTSTAMP:20250603T104647Z
+UID:6jllr19elh3bfol2nleo3nrl99@google.com
+CREATED:20220919T075112Z
+DESCRIPTION:For details\, go here:\nhttps://www.eventbrite.com/e/algorand-d
+ eveloper-greenhouse-hack-shack-singapore-tickets-396422027957
+LAST-MODIFIED:20220919T075112Z
+LOCATION:Flower Field Hall\, Gardens By The Bay - 211 Marina Way - Singapor
+ e 018977 - Singapore
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Algorand Developer Greenhouse | Hack Shack - Singapore
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220928T030000Z
+DTEND:20220929T130000Z
+DTSTAMP:20250603T104647Z
+UID:01bl9aqolh6nlarpqrntrogvcd@google.com
+CREATED:20220919T075123Z
+DESCRIPTION:For details\, go here:\nhttps://www.eventbrite.com/e/algorand-d
+ eveloper-greenhouse-hack-shack-singapore-tickets-396422027957
+LAST-MODIFIED:20220919T075123Z
+LOCATION:Flower Field Hall\, Gardens By The Bay - 211 Marina Way - Singapor
+ e 018977 - Singapore
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Algorand Developer Greenhouse | Hack Shack - Singapore
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220927T010000Z
+DTEND:20220927T100000Z
+DTSTAMP:20250603T104647Z
+UID:4evhid7s1bsq4hgav0btq5bvpq@google.com
+CREATED:20220919T075222Z
+DESCRIPTION:For details\, go here:\nhttps://www.eventbrite.com/e/algorand-d
+ eveloper-greenhouse-tech-talk-singapore-tickets-359727573857
+LAST-MODIFIED:20220919T075222Z
+LOCATION:Flower Field Hall\, Gardens by the Bay - 211 Marina Way - Singapor
+ e 018953 - Singapore
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Algorand Developer Greenhouse | Tech Talk - Singapore
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220929T130000Z
+DTEND:20220929T160000Z
+DTSTAMP:20250603T104647Z
+UID:clgm2e9i60s36bb2c8qj0b9k70q3ebb26oq36bb364om8phkc9ijgoj1c4@google.com
+CREATED:20220929T025831Z
+DESCRIPTION:For details\, go here:\nhttps://www.eventbrite.sg/e/dydx-x-pyth
+ -token2049-singapore-after-party-tickets-416028140367
+LAST-MODIFIED:20220929T025831Z
+LOCATION:Honcho - 12 Ann Siang Road - Singapore 069692 - Singapore
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:dYdX x PYTH - Token2049 Singapore After Party
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201210T083000Z
+DTEND:20201210T100000Z
+DTSTAMP:20250603T104647Z
+ORGANIZER;CN=kimberly.khoo@go-jek.com:mailto:kimberly.khoo@go-jek.com
+UID:0qmq50elakh4tsc2046vg2gi36@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ta
+ ntan.wong@go-jek.com;X-NUM-GUESTS=0:mailto:tantan.wong@go-jek.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=muhamm
+ ad.asc1112@gmail.com;X-NUM-GUESTS=0:mailto:muhammad.asc1112@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=kimber
+ ly.khoo@go-jek.com;X-NUM-GUESTS=0:mailto:kimberly.khoo@go-jek.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mu
+ hddahlan17@gmail.com;X-NUM-GUESTS=0:mailto:muhddahlan17@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Liu Yu
+ ning;X-NUM-GUESTS=0:mailto:yuning.liu@go-jek.com
+CREATED:20201207T044701Z
+DESCRIPTION:\n──────────\n\nKimberly Khoo is inviting you to a scheduled Zo
+ om meeting.\n\nJoin Zoom Meeting\nhttps://gojek.zoom.us/j/98323241224?pwd=N
+ lpNNGFWU3pqSEM0SnVWcjhQd0xMdz09\n\nMeeting ID: 983 2324 1224\nPasscode: 175
+ 377\nOne tap mobile\n+13126266799\,\,98323241224#\,\,\,\,\,\,0#\,\,175377# 
+ US (Chicago)\n+13462487799\,\,98323241224#\,\,\,\,\,\,0#\,\,175377# US (Hou
+ ston)\n\nDial by your location\n        +1 312 626 6799 US (Chicago)\n     
+    +1 346 248 7799 US (Houston)\n        +1 646 558 8656 US (New York)\n   
+      +1 669 900 6833 US (San Jose)\n        +1 253 215 8782 US (Tacoma)\n  
+       +1 301 715 8592 US (Washington D.C)\n        877 853 5257 US Toll-fre
+ e\n        888 475 4499 US Toll-free\n        +65 3158 7288 Singapore\n    
+     +65 3165 1065 Singapore\n        800 101 3814 Singapore Toll-free\n    
+     800 852 6054 Singapore Toll-free\n        +60 3 3099 2229 Malaysia\n   
+      +60 3 7724 4079 Malaysia\n        +60 3 7724 4080 Malaysia\n        +6
+ 0 3 9212 1727 Malaysia\n        1 800 818 425 Malaysia Toll-free\nMeeting I
+ D: 983 2324 1224\nPasscode: 175377\nFind your local number: https://gojek.z
+ oom.us/u/ac47Xn0fGj\n\n\n\n──────────
+LAST-MODIFIED:20221201T172221Z
+LOCATION:https://gojek.zoom.us/j/98323241224?pwd=NlpNNGFWU3pqSEM0SnVWcjhQd0
+ xMdz09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Code Pair (Zoom) Interview - Muhammad Bin Ahmad Dahlan - Senior Sof
+ tware Engineer\, Pricing
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161117T090000Z
+DTEND:20161117T110000Z
+DTSTAMP:20250603T104647Z
+ORGANIZER;CN=kono@kono.ai:mailto:kono@kono.ai
+UID:27as7d7jj1073vokd7892m1i38@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ka
+ rthiayini_2015@sit.singaporetech.edu.sg;X-NUM-GUESTS=0:mailto:karthiayini_2
+ 015@sit.singaporetech.edu.sg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
+ vis_qi95@hotmail.com;X-NUM-GUESTS=0:mailto:mavis_qi95@hotmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ma
+ scha Peeters;X-NUM-GUESTS=0:mailto:mascha@6-30partners.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ro
+ b Bier;X-NUM-GUESTS=0:mailto:rob@6-30partners.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Charle
+ s Wong;X-NUM-GUESTS=0:mailto:cwong@auracapital.sg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=ACCEPTED;CN=muhamm
+ ad.asc1112@gmail.com;X-NUM-GUESTS=0:mailto:muhammad.asc1112@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=DECLINED;CN=Stanle
+ y Furman;X-NUM-GUESTS=0:mailto:stanley_furman@putnam.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=DECLINED;CN=Kathri
+ ne Koo;X-NUM-GUESTS=0:mailto:kathrine.koo@singaporetech.edu.sg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ni
+ cholas Au;X-NUM-GUESTS=0:mailto:auhoeweng@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Da
+ rren Ho;X-NUM-GUESTS=0:mailto:darren097@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Uma Bh
+ arathy;X-NUM-GUESTS=0:mailto:umabharathy1993@gmail.com
+CREATED:20161106T232750Z
+DESCRIPTION:* This event is created by Kono. Please note that an invite may
+  display time in a different timezone if sent to a non-gmail account. \n\n-
+ ::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~::~:~::-\nJoin with Google Hangouts: https://plus.google.com/hangouts/_/
+ konolabs.net/rob-bier?hceid=a29ub0Brb25vLmFp.27as7d7jj1073vokd7892m1i38&hs=
+ 121\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20221201T172221Z
+LOCATION:3 Phillip St Singapore 048693
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HBS Mentorship Drinks
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210128T060000Z
+DTEND:20210128T070000Z
+DTSTAMP:20250603T104647Z
+ORGANIZER;CN=kimberly.khoo@go-jek.com:mailto:kimberly.khoo@go-jek.com
+UID:38nr1ij60q4fbam1pm6pdeqda8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=muhamm
+ ad.asc1112@gmail.com;X-NUM-GUESTS=0:mailto:muhammad.asc1112@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Liwei 
+ Ong;X-NUM-GUESTS=0:mailto:liwei.ong@go-jek.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ta
+ ntan.wong@go-jek.com;X-NUM-GUESTS=0:mailto:tantan.wong@go-jek.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=kimber
+ ly.khoo@go-jek.com;X-NUM-GUESTS=0:mailto:kimberly.khoo@go-jek.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Dmitry
+  Smorodinnikov;X-NUM-GUESTS=0:mailto:dmitry.s@go-jek.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mu
+ hddahlan17@gmail.com;X-NUM-GUESTS=0:mailto:muhddahlan17@gmail.com
+CREATED:20210113T074443Z
+DESCRIPTION:──────────\n\nKimberly Khoo is inviting you to a scheduled Zoom
+  meeting.\n\nJoin Zoom Meeting\nhttps://gojek.zoom.us/j/99606288548?pwd=NVV
+ hWVlPUlZDR0hBZS9rME1ENDBUQT09\n\nMeeting ID: 996 0628 8548\nPasscode: 98254
+ 1\nOne tap mobile\n+16465588656\,\,99606288548#\,\,\,\,*982541# US (New Yor
+ k)\n+16699006833\,\,99606288548#\,\,\,\,*982541# US (San Jose)\n\nDial by y
+ our location\n        +1 646 558 8656 US (New York)\n        +1 669 900 683
+ 3 US (San Jose)\n        +1 253 215 8782 US (Tacoma)\n        +1 301 715 85
+ 92 US (Washington D.C)\n        +1 312 626 6799 US (Chicago)\n        +1 34
+ 6 248 7799 US (Houston)\n        877 853 5257 US Toll-free\n        888 475
+  4499 US Toll-free\n        +65 3158 7288 Singapore\n        +65 3165 1065 
+ Singapore\n        800 101 3814 Singapore Toll-free\n        800 852 6054 S
+ ingapore Toll-free\n        +60 3 3099 2229 Malaysia\n        +60 3 7724 40
+ 79 Malaysia\n        +60 3 7724 4080 Malaysia\n        +60 3 9212 1727 Mala
+ ysia\n        1 800 818 425 Malaysia Toll-free\nMeeting ID: 996 0628 8548\n
+ Passcode: 982541\nFind your local number: https://gojek.zoom.us/u/aRIJ7tFVW
+ \n\n\n\n──────────
+LAST-MODIFIED:20221201T172221Z
+LOCATION:https://gojek.zoom.us/j/99606288548?pwd=NVVhWVlPUlZDR0hBZS9rME1END
+ BUQT09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tech 1 (Zoom) Interview - Muhammad Bin Ahmad Dahlan - Senior Softwa
+ re Engineer\, Pricing
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201110T033000Z
+DTEND:20201110T040000Z
+DTSTAMP:20250603T104647Z
+ORGANIZER;CN=tantan.wong@go-jek.com:mailto:tantan.wong@go-jek.com
+UID:50hua8eactf4jj2bjk40mue2fg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=tantan
+ .wong@go-jek.com;X-NUM-GUESTS=0:mailto:tantan.wong@go-jek.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=muhamm
+ ad.asc1112@gmail.com;X-NUM-GUESTS=0:mailto:muhammad.asc1112@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/boo-mfia-jyn
+CREATED:20201109T111406Z
+DESCRIPTION:<br>Thanks for booking!<br><br>This is to confirm our call. Ple
+ ase join the Hangouts Voice Call (no video needed) at: meet.google.com/boo-
+ mfia-jyn<br><br>Look forward to speaking with you! :)<br><br>--------------
+ ----------------------------------------------<br>Thanks for booking the ti
+ me and kindly fill in the details below:<br>&nbsp\;- Full Name: Muhammad Bi
+ n Ahmad Dahlan<br>&nbsp\;- Mobile Number: 98511711<br>&nbsp\;- LinkedIn Lin
+ k:<a href="https://www.linkedin.com/in/muhd-dahlan/">https://www.linkedin.c
+ om/in/muhd-dahlan/</a><br><br>A hangouts audio call link will be created pr
+ ior to our call.\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.googl
+ e.com/boo-mfia-jyn\nOr dial: (US) +1 276-796-8258 PIN: 927841503#\nMore pho
+ ne numbers: https://tel.meet/boo-mfia-jyn?pin=7368247142042&hs=7\n\nLearn m
+ ore about Meet at: https://support.google.com/a/users/answer/9282720\n\nPle
+ ase do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20221201T172221Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Book me! Chat with Gojek! (Muhd Ahmad Dahlan)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210330T040000Z
+DTEND:20210330T043000Z
+DTSTAMP:20250603T104647Z
+ORGANIZER;CN=donnie@quantum-chase.com:mailto:donnie@quantum-chase.com
+UID:6qjebt0qfkomv6rj3aumf6kpi4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=muhamm
+ ad.asc1112@gmail.com;X-NUM-GUESTS=0:mailto:muhammad.asc1112@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=donnie
+ @quantum-chase.com;X-NUM-GUESTS=0:mailto:donnie@quantum-chase.com
+CREATED:20210329T075614Z
+DESCRIPTION:Looking forward to our call. \n\nRegards\, \nDonnie 
+LAST-MODIFIED:20221201T172221Z
+LOCATION:I will call via WhatsApp
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Call with Donnie from Quantum Chase
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170323T093000Z
+DTEND:20170323T103000Z
+DTSTAMP:20250603T104647Z
+ORGANIZER;CN=ng.jaslyn.hs@alexandrahealth.com.sg:mailto:ng.jaslyn.hs@alexan
+ drahealth.com.sg
+UID:040000008200E00074C5B7101A82E0080000000010F62838349FD201000000000000000
+ 0100000008232FA9801BC004D97E170F00F2BCA80
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=15
+ 031272@myrp.edu.sg;X-NUM-GUESTS=0:mailto:15031272@myrp.edu.sg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=11
+ 50505720@qq.com;X-NUM-GUESTS=0:mailto:1150505720@qq.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=16
+ 0048t@mymail.nyp.edu.sg;X-NUM-GUESTS=0:mailto:160048t@mymail.nyp.edu.sg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sh
+ erwynn.tiong@digipen.edu;X-NUM-GUESTS=0:mailto:sherwynn.tiong@digipen.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=we
+ ilun.huang@digipen.edu;X-NUM-GUESTS=0:mailto:weilun.huang@digipen.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=m d;X-
+ NUM-GUESTS=0:mailto:muhammad.asc1112@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Se
+ nthamil Selvan (MVP);X-NUM-GUESTS=0:mailto:altfo@hotmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ho
+ oi Li Fu;X-NUM-GUESTS=0:mailto:fuli@microsoft.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ga
+ rnettguo@foxmail.com;X-NUM-GUESTS=0:mailto:garnettguo@foxmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ch
+ oon Joo GAN (NYP);X-NUM-GUESTS=0:mailto:gan_choon_joo@nyp.edu.sg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Al
+ vin Ng Jin Ming;X-NUM-GUESTS=0:mailto:alvin.ng@singaporetech.edu.sg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lo
+ ve_weifong93@hotmail.com;X-NUM-GUESTS=0:mailto:love_weifong93@hotmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=te
+ otzehau@gmail.com;X-NUM-GUESTS=0:mailto:teotzehau@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN='A
+ lvin Lau';X-NUM-GUESTS=0:mailto:alvlau@microsoft.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=An
+ chal Gupta (AHPL);X-NUM-GUESTS=0:mailto:gupta.anchal@alexandrahealth.com.sg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Sz
+ e Wong LIAW (NYP);X-NUM-GUESTS=0:mailto:liaw_sze_wong@nyp.edu.sg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=An
+ thony Chee Peng Yong;X-NUM-GUESTS=0:mailto:anthony.chee@singaporetech.edu.s
+ g
+CREATED:20170317T073617Z
+DESCRIPTION:Dear all\,\n\nPlease note that our second checkpoint meeting wi
+ ll be held next Thursday\, as discussed previously:\nDate: 23 March  2017 (
+ Thursday)\nTime: 17:30 – 18:30\nLocation: Microsoft Office (#22-01\, 1 Mari
+ na Blvd)\nAgenda:\n1) Clear all the graphics\n2) View the ‘backbone’ progra
+ mming of Surface Hub (and Kinect\, if possible)\n\nThank you!\n\n\nWarmest 
+ regards\,\nJaslyn Ng\nExecutive\, Clinical Services Planning\nMobile: 9295 
+ 6472\nFax: 6681 5990\n\nWoodlands Health Campus | AHS\n9 Maxwell Road #03-0
+ 1A\, MND Complex Annexe A\, Singapore 069112\nwww.alexandrahealth.com.sg\nT
+ ouching Lives\, Pioneering Care\, Making a Difference\n\nThis message is co
+ nfidential and intended solely for the person or organisation to whom it is
+  addressed. It may contain privileged and confidential information. If you 
+ are not the intended recipient\, you should not copy\, distribute or take a
+ ny action on reliance on it. If you have received this transmission in erro
+ r\, please notify us immediately by email at the above address. Thank you.\
+ n\n\n\n\n\n
+LAST-MODIFIED:20221201T172229Z
+LOCATION:Microsoft Office (#22-01\, 1 Marina Blvd)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Microsoft-NYP-SIT-WHC 2nd Checkpoint
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-OWNERAPPTID:-1257162783
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170330T080000Z
+DTEND:20170330T093000Z
+DTSTAMP:20250603T104647Z
+ORGANIZER;CN=ng.jaslyn.hs@alexandrahealth.com.sg:mailto:ng.jaslyn.hs@alexan
+ drahealth.com.sg
+UID:040000008200E00074C5B7101A82E008000000004030AF6EA9A8D201000000000000000
+ 010000000F12D0AE0F8595D4C8FAE6E91583A734D
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN='A
+ lvin Lau';X-NUM-GUESTS=0:mailto:alvlau@microsoft.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ho
+ oi Li Fu;X-NUM-GUESTS=0:mailto:fuli@microsoft.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sh
+ erwynn.tiong@digipen.edu;X-NUM-GUESTS=0:mailto:sherwynn.tiong@digipen.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lo
+ ve_weifong93@hotmail.com;X-NUM-GUESTS=0:mailto:love_weifong93@hotmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=we
+ ilun.huang@digipen.edu;X-NUM-GUESTS=0:mailto:weilun.huang@digipen.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ch
+ oon Joo GAN (NYP);X-NUM-GUESTS=0:mailto:gan_choon_joo@nyp.edu.sg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=su
+ nyetong322@gmail.com;X-NUM-GUESTS=0:mailto:sunyetong322@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Al
+ vin Ng Jin Ming;X-NUM-GUESTS=0:mailto:alvin.ng@singaporetech.edu.sg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ga
+ rnettguo@foxmail.com;X-NUM-GUESTS=0:mailto:garnettguo@foxmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=An
+ chal Gupta (AHPL);X-NUM-GUESTS=0:mailto:gupta.anchal@alexandrahealth.com.sg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Se
+ nthamil Selvan (MVP);X-NUM-GUESTS=0:mailto:altfo@hotmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=m d;X-
+ NUM-GUESTS=0:mailto:muhammad.asc1112@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=15
+ 031272@myrp.edu.sg;X-NUM-GUESTS=0:mailto:15031272@myrp.edu.sg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=16
+ 0048t@mymail.nyp.edu.sg;X-NUM-GUESTS=0:mailto:160048t@mymail.nyp.edu.sg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=An
+ thony Chee Peng Yong;X-NUM-GUESTS=0:mailto:anthony.chee@singaporetech.edu.s
+ g
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=te
+ otzehau@gmail.com;X-NUM-GUESTS=0:mailto:teotzehau@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Sz
+ e Wong LIAW (NYP);X-NUM-GUESTS=0:mailto:liaw_sze_wong@nyp.edu.sg
+CREATED:20170329T083615Z
+DESCRIPTION:Dear all\,\n\nPlease note that our third checkpoint meeting wil
+ l be held tomorrow\, as discussed previously:\nDate: 30 March  2017 (Thursd
+ ay)\nTime: 16:00 – 17:30\nLocation: Microsoft Office (#22-01\, 1 Marina Blv
+ d)\nAgenda:\n1) First full run\n2) Feedback on Changes Needed\n\nThank you!
+ \n\n\nWarmest regards\,\nJaslyn Ng\nExecutive\, Clinical Services Planning\
+ nMobile: 9295 6472\nFax: 6681 5990\n\nWoodlands Health Campus | AHS\n9 Maxw
+ ell Road #03-01A\, MND Complex Annexe A\, Singapore 069112\nwww.alexandrahe
+ alth.com.sg<http://www.alexandrahealth.com.sg>\nTouching Lives\, Pioneering
+  Care\, Making a Difference\n\nThis message is confidential and intended so
+ lely for the person or organisation to whom it is addressed. It may contain
+  privileged and confidential information. If you are not the intended recip
+ ient\, you should not copy\, distribute or take any action on reliance on i
+ t. If you have received this transmission in error\, please notify us immed
+ iately by email at the above address. Thank you.\n\n\n\n\n\n\n\n
+LAST-MODIFIED:20221201T172229Z
+LOCATION:Microsoft Office (#22-01\, 1 Marina Blvd)
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Microsoft-NYP-SIT-WHC 3rd Checkpoint
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-OWNERAPPTID:731723745
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170309T070000Z
+DTEND:20170309T090000Z
+DTSTAMP:20250603T104647Z
+ORGANIZER;CN=gupta.anchal@alexandrahealth.com.sg:mailto:gupta.anchal@alexan
+ drahealth.com.sg
+UID:040000008200E00074C5B7101A82E008000000005055336C9696D201000000000000000
+ 01000000070FD012A9895304998E8AA3F4236C0BA
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=m d;X-
+ NUM-GUESTS=0:mailto:muhammad.asc1112@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=we
+ ilun.huang@digipen.edu;X-NUM-GUESTS=0:mailto:weilun.huang@digipen.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sh
+ erwynn.tiong@digipen.edu;X-NUM-GUESTS=0:mailto:sherwynn.tiong@digipen.edu
+CREATED:20170307T084819Z
+DESCRIPTION:\n\n-----Original Appointment-----\nFrom: Anchal Gupta (AHPL) [
+ mailto:gupta.anchal@alexandrahealth.com.sg]\nSent: Monday\, 6 March\, 2017 
+ 4:35 PM\nTo: Anchal Gupta (AHPL)\; Jaslyn Ng Hui Shan (AHPL)\; Stephen Chan
+  Yung-Wei (TTSH)\; Sze Wong LIAW (NYP)\; Keng Wah CHOO (NYP)\; Anthony Chee
+  Peng Yong\; Hooi Li Fu\; Alvin Lau\nCc: Alvin Ng Jin Ming\nSubject: Meetin
+ g with Microsoft\, NYP and SIT\nWhen: Thursday\, 9 March\, 2017 3:00 PM-5:0
+ 0 PM (UTC+08:00) Kuala Lumpur\, Singapore.\nWhere: WIHC - Meeting Room 2 (M
+ axwell)\; MND COMplex\, Annex A\, level 3\n\nDear Anthony\, Keng Wah\nKindl
+ y help to forward the invite to students and Profs involved in the project.
+  See you all on Thursday!\nThanks\nAnchal\n--------------------------------
+ -------------------------------------------------\nThis e-mail is confident
+ ial and may also be privileged. If you are not the intended recipient\, ple
+ ase notify the sender immediately\, delete it from your system and do not c
+ opy\, disseminate or disclose any information contained therein. Thank you.
+ \n
+LAST-MODIFIED:20221201T172229Z
+LOCATION:WIHC - Meeting Room 2 (Maxwell)\; MND COMplex\, Annex A\, level 3
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:FW: Meeting with Microsoft\, NYP and SIT
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-APPT-SEQUENCE:3
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-OWNERAPPTID:-12175391
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170303T010000Z
+DTEND:20170303T020000Z
+DTSTAMP:20250603T104647Z
+ORGANIZER;CN=rob@6-30partners.com:mailto:rob@6-30partners.com
+UID:040000008200E00074C5B7101A82E00800000000805F2252378CD201000000000000000
+ 010000000E3CD7B72C048AA469C0CE05E2FC83F4E
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=m d;X-
+ NUM-GUESTS=0:mailto:muhammad.asc1112@gmail.com
+CREATED:20170221T034037Z
+DESCRIPTION:\n
+LAST-MODIFIED:20221201T172229Z
+LOCATION:Craftsmen Specialty Coffee\, Goldhill Plaza\, 173 Thomson Rd
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Muhammad - Rob (HBS Mentor)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-OWNERAPPTID:-1214961695
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200806T160000Z
+DTEND:20200807T160000Z
+DTSTAMP:20250603T104647Z
+ORGANIZER;CN=musaahmaddahlan@smrt.com.sg:mailto:musaahmaddahlan@smrt.com.sg
+UID:040000008200E00074C5B7101A82E00800000000A02183EFD469D601000000000000000
+ 010000000A408346F8701664ABCB9756000803893
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=m 
+ d;X-NUM-GUESTS=0:mailto:muhammad.asc1112@gmail.com
+CREATED:20200803T123216Z
+DESCRIPTION:\n_____________________________________________________________
+ ___________________\nJoin Microsoft Teams Meeting<https://teams.microsoft.c
+ om/l/meetup-join/19%3ameeting_NjcxNGE5ZjgtNzk4MC00YTllLWFlYjQtODI2NzEzMDU1N
+ GQw%40thread.v2/0?context=%7b%22Tid%22%3a%22c88daf55-f4aa-4f79-a143-526402a
+ b9a23%22%2c%22Oid%22%3a%226f65df5a-2e2a-433a-acf7-43f77d1fad7b%22%7d>\nLear
+ n more about Teams<https://aka.ms/JoinTeamsMeeting> | Meeting options<https
+ ://teams.microsoft.com/meetingOptions/?organizerId=6f65df5a-2e2a-433a-acf7-
+ 43f77d1fad7b&tenantId=c88daf55-f4aa-4f79-a143-526402ab9a23&threadId=19_meet
+ ing_NjcxNGE5ZjgtNzk4MC00YTllLWFlYjQtODI2NzEzMDU1NGQw@thread.v2&messageId=0&
+ language=en-US>\n[http://smrt.com.sg/Portals/0/SMRT_Corp_Logo.png]\nSMRT Me
+ eting using Microsoft Teams\nLegal<http://smrt.com.sg/Privacy-Statement>\n_
+ ___________________________________________________________________________
+ ____\n\n
+LAST-MODIFIED:20221201T172229Z
+LOCATION:Microsoft Teams Meeting
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Test Meeting
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-OWNERAPPTID:906201060
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170316T093000Z
+DTEND:20170316T103000Z
+DTSTAMP:20250603T104647Z
+ORGANIZER;CN=ng.jaslyn.hs@alexandrahealth.com.sg:mailto:ng.jaslyn.hs@alexan
+ drahealth.com.sg
+UID:040000008200E00074C5B7101A82E00800000000F0A610FAD89CD201000000000000000
+ 01000000050390FDB496CAC4FA4A56D625D652DA2
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=te
+ otzehau@gmail.com;X-NUM-GUESTS=0:mailto:teotzehau@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=16
+ 0048t@mymail.nyp.edu.sg;X-NUM-GUESTS=0:mailto:160048t@mymail.nyp.edu.sg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lo
+ ve_weifong93@hotmail.com;X-NUM-GUESTS=0:mailto:love_weifong93@hotmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=15
+ 031272@myrp.edu.sg;X-NUM-GUESTS=0:mailto:15031272@myrp.edu.sg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ga
+ rnettguo@foxmail.com;X-NUM-GUESTS=0:mailto:garnettguo@foxmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=An
+ chal Gupta (AHPL);X-NUM-GUESTS=0:mailto:gupta.anchal@alexandrahealth.com.sg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Sz
+ e Wong LIAW (NYP);X-NUM-GUESTS=0:mailto:liaw_sze_wong@nyp.edu.sg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ja
+ slyn Ng Hui Shan (AHPL);X-NUM-GUESTS=0:mailto:ng.jaslyn.hs@alexandrahealth.
+ com.sg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=m d;X-
+ NUM-GUESTS=0:mailto:muhammad.asc1112@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Al
+ vin Ng Jin Ming;X-NUM-GUESTS=0:mailto:alvin.ng@singaporetech.edu.sg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Al
+ vin Lau;X-NUM-GUESTS=0:mailto:alvlau@microsoft.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=An
+ thony Chee Peng Yong;X-NUM-GUESTS=0:mailto:anthony.chee@singaporetech.edu.s
+ g
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Se
+ nthamil Selvan (MVP);X-NUM-GUESTS=0:mailto:altfo@hotmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ho
+ oi Li Fu;X-NUM-GUESTS=0:mailto:fuli@microsoft.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=we
+ ilun.huang@digipen.edu;X-NUM-GUESTS=0:mailto:weilun.huang@digipen.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ch
+ oon Joo GAN (NYP);X-NUM-GUESTS=0:mailto:gan_choon_joo@nyp.edu.sg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=11
+ 50505720@qq.com;X-NUM-GUESTS=0:mailto:1150505720@qq.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sh
+ erwynn.tiong@digipen.edu;X-NUM-GUESTS=0:mailto:sherwynn.tiong@digipen.edu
+CREATED:20170314T073807Z
+DESCRIPTION:Dear all\,\n\nPlease note that our first checkpoint meeting wil
+ l be held this Thursday\, as discussed previously:\nDate: 16 March  2017 (T
+ hursday)\nTime: 17:30 – 18:30\nLocation: Microsoft Office (#22-01\, 1 Marin
+ a Blvd)\nAgenda:\n1) Firm up the storyline\n2) Clarify any concerns that ma
+ y have arisen during your planning\n3) View sample graphics\n4) Kinect mock
+ up with placeholders\n\nThank you!\n\n\nWarmest regards\,\nJaslyn Ng\nExecu
+ tive\, Clinical Services Planning\nMobile: 9295 6472\nFax: 6681 5990\n\nWoo
+ dlands Health Campus | AHS\n9 Maxwell Road #03-01A\, MND Complex Annexe A\,
+  Singapore 069112\nwww.alexandrahealth.com.sg\nTouching Lives\, Pioneering 
+ Care\, Making a Difference\n\nThis message is confidential and intended sol
+ ely for the person or organisation to whom it is addressed. It may contain 
+ privileged and confidential information. If you are not the intended recipi
+ ent\, you should not copy\, distribute or take any action on reliance on it
+ . If you have received this transmission in error\, please notify us immedi
+ ately by email at the above address. Thank you.\n\n\n\n\n
+LAST-MODIFIED:20221201T172235Z
+LOCATION:Microsoft Office (#22-01\, 1 Marina Blvd)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Microsoft-NYP-SIT-WHC 1st Checkpoint
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-OWNERAPPTID:-1722927135
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201015T083000Z
+DTEND:20201015T090000Z
+DTSTAMP:20250603T104647Z
+ORGANIZER;CN=sasikala.satheesh@go-jek.com:mailto:sasikala.satheesh@go-jek.c
+ om
+UID:nosdpmmhm9j70mmbh2t29qm25k@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mu
+ hammad.asc1112@gmail.com;X-NUM-GUESTS=0:mailto:muhammad.asc1112@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/cyn-owow-jsz
+CREATED:20201012T030857Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/cy
+ n-owow-jsz\nOr dial: (US) +1 650-935-4597 PIN: 667015412#\nMore phone numbe
+ rs: https://tel.meet/cyn-owow-jsz?pin=5649246308586&hs=7\n\nLearn more abou
+ t Meet at: https://support.google.com/a/users/answer/9282720\n\nPlease do n
+ ot edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20221201T172235Z
+LOCATION:Google Hangout Audio call 
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:GO-JEK
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230415T020000Z
+DTEND:20230416T090000Z
+DTSTAMP:20250603T104647Z
+UID:3q9cq9063cr7vs2n9qjcniq20c@google.com
+CREATED:20230414T105502Z
+DESCRIPTION:For details\, go here:\nhttps://circle-hacker-house.eventbrite.
+ com
+LAST-MODIFIED:20230414T105502Z
+LOCATION:SPECTRUM - Work\, Play\, Belong - 3 Fraser Street\, DUO Tower - #0
+ 5-21 - Singapore 189352 - Singapore
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Circle Hacker House
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231220T090000Z
+DTEND:20231220T150000Z
+DTSTAMP:20250603T104647Z
+UID:64rj2cr665gjgbb3cgoj4b9kc8qj6bb26gq3ib9h6gs66db2cph38d9o6s@google.com
+CREATED:20231112T233331Z
+LAST-MODIFIED:20231112T233331Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Busy
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231218T103000Z
+DTEND:20231218T123000Z
+DTSTAMP:20250603T104647Z
+UID:2rddklsn03trdvqvim062urhij@google.com
+CREATED:20231120T104856Z
+DESCRIPTION:For full details\, including the address\, and to RSVP see: htt
+ ps://www.meetup.com/singapore-product-design/events/296885046\n\n
+LAST-MODIFIED:20231120T104856Z
+LOCATION:Afro-Asia - 63 Robinson Rd - Singapore\, sg
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Role of UX Research and Research Operations
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240820T000000Z
+DTEND:20240820T080000Z
+DTSTAMP:20250603T104647Z
+UID:08d6rkndgthnrebtb3jh00526f@google.com
+CREATED:20240729T080521Z
+DESCRIPTION:Join Event - <a href=https://www.townscript.com/e/bali-blockcha
+ in-summit-2024-024211>Joining Link</a>
+LAST-MODIFIED:20240729T080521Z
+LOCATION:Dharma Negara Alaya (DNA Art & Creative Hub Denpasar)\, Bali\, Ind
+ onesia\,
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bali Blockchain Summit 2024
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191221T030000Z
+DTEND:20191221T045000Z
+DTSTAMP:20250603T104647Z
+UID:7kukuqrfedlm2f9t0165sh5h9culuqarc7ske2be0jvne4lumfidgul14hoj0hr08g80
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=m d;X-
+ NUM-GUESTS=0:mailto:muhammad.asc1112@gmail.com
+CLASS:PRIVATE
+CREATED:20191121T031937Z
+DESCRIPTION:Singapore Airlines flight 5191\nBandung BDO 10:00 (local time) 
+ – Singapore SIN 12:50 (local time)\n\nConfirmation number: MU87GN
+LAST-MODIFIED:20241015T064951Z
+LOCATION:Bandung BDO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to Singapore (SQ 5191)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230729T041500Z
+DTEND:20230729T051500Z
+DTSTAMP:20250603T104647Z
+UID:7kukuqrfedlm2f9tipl2ktmbd8bsm7aeb3op1pqqfjgi8bbpsnc9bbaj7fqtob7hpulg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=m d;X-
+ NUM-GUESTS=0:mailto:muhammad.asc1112@gmail.com
+CLASS:PRIVATE
+CREATED:20230729T040517Z
+DESCRIPTION:Your booking at Jurong Regional Library\nJurong Regional Librar
+ y\n\nConfirmation number: NLB2307S114847
+LAST-MODIFIED:20241015T064951Z
+LOCATION:Jurong Regional Library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Your booking at Jurong Regional Library
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191216T061500Z
+DTEND:20191216T081500Z
+DTSTAMP:20250603T104647Z
+UID:7kukuqrfedlm2f9tqrdgborqnrahfigfvra44qsltc3llfmt39tadh8asdd1qb6uth4g
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=m d;X-
+ NUM-GUESTS=0:mailto:muhammad.asc1112@gmail.com
+CLASS:PRIVATE
+CREATED:20191121T031937Z
+DESCRIPTION:Silkair flight 196\nSingapore SIN 14:15 (local time) – Bandung 
+ BDO 15:15 (local time)\n\nConfirmation number: MU87GN
+LAST-MODIFIED:20241015T064951Z
+LOCATION:Singapore SIN
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Flight to Bandung (MI 196)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250102T070000Z
+DTEND:20250102T074500Z
+DTSTAMP:20250603T104647Z
+ORGANIZER;CN=anman.gx2711@gmail.com:mailto:anman.gx2711@gmail.com
+UID:504j4ka10h3krddcandjg54t72@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=anman.
+ gx2711@gmail.com;X-NUM-GUESTS=0:mailto:anman.gx2711@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=muhamm
+ ad.asc1112@gmail.com;X-NUM-GUESTS=0:mailto:muhammad.asc1112@gmail.com
+CREATED:20250102T033835Z
+LAST-MODIFIED:20250102T065922Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Product Call mud + jovi
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20250407T180000
+DTEND;TZID=Europe/London:20250407T190000
+DTSTAMP:20250603T104647Z
+ORGANIZER;CN=beansdotfun@gmail.com:mailto:beansdotfun@gmail.com
+UID:1io4bo7pnroukgq0uqnngmdhd3@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=beansd
+ otfun@gmail.com;X-NUM-GUESTS=0:mailto:beansdotfun@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jaimin
+ 888patel@gmail.com;X-NUM-GUESTS=0:mailto:jaimin888patel@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=grindi
+ ngpoet@gmail.com;X-NUM-GUESTS=0:mailto:grindingpoet@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=anmoli
+ an.eth@gmail.com;X-NUM-GUESTS=0:mailto:anmolian.eth@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nahid2
+ 00040@gmail.com;X-NUM-GUESTS=0;X-RESPONSE-COMMENT="Docsenku":mailto:nahid20
+ 0040@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=muhamm
+ ad.asc1112@gmail.com;X-NUM-GUESTS=0:mailto:muhammad.asc1112@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=turner
+ timmy3fav@gmail.com;X-NUM-GUESTS=0;X-RESPONSE-COMMENT="I&rsquo\;ll be there
+  ":mailto:turnertimmy3fav@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=gauran
+ gdaol@gmail.com;X-NUM-GUESTS=0:mailto:gaurangdaol@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=mudkip
+ crypto@gmail.com;X-NUM-GUESTS=0:mailto:mudkipcrypto@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=flyjgh
+ .eth@gmail.com;X-NUM-GUESTS=0:mailto:flyjgh.eth@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ndtikh
+ onov@gmail.com;X-NUM-GUESTS=0:mailto:ndtikhonov@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=meinaz
+ hou0726@gmail.com;X-NUM-GUESTS=0:mailto:meinazhou0726@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=amigla
+ ns@gmail.com;X-NUM-GUESTS=0:mailto:amiglans@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=meleho
+ n@gmail.com;X-NUM-GUESTS=0:mailto:melehon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;CN=dima.
+ emdm@gmail.com;X-NUM-GUESTS=0:mailto:dima.emdm@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;CN=funny
+ dotmoney@gmail.com;X-NUM-GUESTS=0:mailto:funnydotmoney@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=valeri
+ o1fichera@gmail.com;X-NUM-GUESTS=0:mailto:valerio1fichera@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=lzq100
+ 3963341@gmail.com;X-NUM-GUESTS=0:mailto:lzq1003963341@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wlfweb
+ 01@gmail.com;X-NUM-GUESTS=0;X-RESPONSE-COMMENT="here":mailto:wlfweb01@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=steers
+ frine@gmail.com;X-NUM-GUESTS=0:mailto:steersfrine@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ttx0x1
+ @gmail.com;X-NUM-GUESTS=0:mailto:ttx0x1@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=shenzh
+ uo1997@gmail.com;X-NUM-GUESTS=0;X-RESPONSE-COMMENT="beans":mailto:shenzhuo1
+ 997@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=hardyt
+ revonaaogjc@gmail.com;X-NUM-GUESTS=0;X-RESPONSE-COMMENT="linlin":mailto:har
+ dytrevonaaogjc@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=tianmo
+ 6666@gmail.com;X-NUM-GUESTS=0;X-RESPONSE-COMMENT="hi":mailto:tianmo6666@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ylff13
+ 88@gmail.com;X-NUM-GUESTS=0:mailto:ylff1388@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wang12
+ 3321hh@gmail.com;X-NUM-GUESTS=0:mailto:wang123321hh@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=lizuch
+ ang966@gmail.com;X-NUM-GUESTS=0:mailto:lizuchang966@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=304455
+ 192cbh@gmail.com;X-NUM-GUESTS=0;X-RESPONSE-COMMENT="1":mailto:304455192cbh@
+ gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ramsey
+ 2869@gmail.com;X-NUM-GUESTS=0:mailto:ramsey2869@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=zhao16
+ 25111@gmail.com;X-NUM-GUESTS=0;X-RESPONSE-COMMENT="cheng72gg@gmail.com":mai
+ lto:zhao1625111@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=fortun
+ ebin123@gmail.com;X-NUM-GUESTS=0:mailto:fortunebin123@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=abelte
+ d9@gmail.com;X-NUM-GUESTS=0:mailto:abelted9@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=203572
+ 4755@qq.com;X-NUM-GUESTS=0:mailto:2035724755@qq.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=y40816
+ 2677@gmail.com;X-NUM-GUESTS=0:mailto:y408162677@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=b711t1
+ @gmail.com;X-NUM-GUESTS=0;X-RESPONSE-COMMENT="&#26399\;&#24180\;":mailto:b7
+ 11t1@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=alexzu
+ iwudi@gmail.com;X-NUM-GUESTS=0:mailto:alexzuiwudi@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=a11321
+ 97836@163.com;X-NUM-GUESTS=0:mailto:a1132197836@163.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=xu9609
+ 20@gmail.con;X-NUM-GUESTS=0:mailto:xu960920@gmail.con
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=profde
+ eznuts@proton.me;X-NUM-GUESTS=0:mailto:profdeeznuts@proton.me
+RECURRENCE-ID;TZID=Europe/London:20250407T180000
+CLASS:PUBLIC
+CREATED:20250403T203912Z
+LAST-MODIFIED:20250414T083738Z
+LOCATION:https://beans.fun
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Beans Launch
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Singapore:20250421T154500
+DTEND;TZID=Asia/Singapore:20250421T164500
+RRULE:FREQ=DAILY;COUNT=1
+DTSTAMP:20250603T104647Z
+UID:cdi36p1kc8rm2b9pc8s3eb9kc5i64b9o6so3ab9ic5h64dj370qj4e9n64@google.com
+CREATED:20250418T061357Z
+LAST-MODIFIED:20250418T061357Z
+LOCATION:Vaccination Clinic (7 years old and above)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Appointment at Woodlands Polyclinic
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250604T073000Z
+DTEND:20250604T083000Z
+DTSTAMP:20250603T104647Z
+UID:67sdpqego48b1a5g726mdhrij1@google.com
+CREATED:20250603T104622Z
+LAST-MODIFIED:20250603T104623Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:test
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
