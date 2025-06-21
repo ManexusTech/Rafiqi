@@ -1,0 +1,9 @@
+[submodule "rafiqi-blockchain/lib/forge-std"]
+	path = rafiqi-blockchain/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/openzeppelin-contracts"]
+	path = lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "rafiqi-blockchain/lib/openzeppelin-contracts"]
+	path = rafiqi-blockchain/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
